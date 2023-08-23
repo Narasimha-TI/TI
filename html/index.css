@@ -1,0 +1,30 @@
+.anakonda {
+    text-decoration: underline;
+    font-size: 35px;
+    color: #070101;
+    font-family: sans-serif;
+}
+.kingcobra{
+    text-decoration: underline;
+    font-size: 35px;
+    font-family: sans-serif;
+    color: #0e0303;
+}
+.Ratilsnake{
+    text-decoration: underline;
+    font-size: 35px;
+    font-family: sans-serif;
+    color: #0e0303;
+}
+.im1{
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.im2{
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.im3{
+    border-radius: 15px;
+    margin-left: 30px;
+}
