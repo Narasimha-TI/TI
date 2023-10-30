@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "prettier": "^3.0.3",
+    "react-browser-router": "^2.1.2",
+    "react-icons": "^4.11.0",
+    "sweetalert2": "^11.8.0"
+  }
+}

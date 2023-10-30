@@ -173,3 +173,6 @@
 .cofeelogo {
     height: 50px;
 }
+.background-container{
+    width:min(100%,950px);
+}
